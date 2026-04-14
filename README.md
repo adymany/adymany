@@ -18,6 +18,6 @@ I'm a curious student passionate about exploring new technologies. I currently h
 ![](https://github-contributor-stats.vercel.app/api?username=adymany&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[$(https://komarev.com/ghpvc/?username=adymany&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=adymany&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
