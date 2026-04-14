@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm a curious student passionate about exploring new technologies. I currently have several impressive projects that showcase my skills. My expertise spans cloud computing, full-stack web development, native app development, web services, cloud architecture, basic machine learning and data science, as well as native applications in Python, C++, and Electron. I create clean, multi-platform native mobile apps using Flutter and Capacitor. Additionally, I contribute to open-source Linux native apps like KDE-Connect and GS-Connect, and I write Linux kernel modules that help optimize performance on HP Victus laptops.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan tabrezi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adnantabrezi11@gmail.com) 
 
@@ -21,5 +20,7 @@ I'm a curious student passionate about exploring new technologies. I currently h
 ---
 [![](https://komarev.com/ghpvc/?username=adymany&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->#   a d y m a n y  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->#   a d y m a n y 
+ 
+ #   a d y m a n y  
  
