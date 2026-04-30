@@ -10,7 +10,6 @@ I'm a curious student passionate about exploring new technologies. I currently h
 ![](https://github-readme-stats.shion.dev/api?username=adymany&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=adymany&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adymany&layout=compact&theme=dracula&count_private=true&hide=jupyter%20notebook&langs_count=8)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=adymany&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adymany&theme=dark&no-frame=false&no-bg=true&margin-w=4)
