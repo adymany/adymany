@@ -9,6 +9,7 @@ I'm a curious student passionate about exploring new technologies. I currently h
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=adymany&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=adymany&theme=dark&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adymany&layout=compact&theme=dracula&count_private=true&hide=jupyter%20notebook&langs_count=8)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=adymany&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -16,6 +17,7 @@ I'm a curious student passionate about exploring new technologies. I currently h
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adymany&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=adymany&icon=0&color=0)](https://visitcount.itsvg.in)
